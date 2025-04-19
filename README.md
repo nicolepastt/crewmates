@@ -44,7 +44,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] I added box shadow that displays the same color as to what the user shows. 
 
 ## Video Walkthrough
 
