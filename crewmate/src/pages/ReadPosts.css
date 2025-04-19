@@ -1,0 +1,9 @@
+.ReadProject1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* centers horizontally */
+    align-items: center;     /* centers vertically */
+    min-height: 100vh;
+    padding: 2rem;
+    gap: 2rem; /* spacing between cards */
+  }

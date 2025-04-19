@@ -1,0 +1,48 @@
+.Card {
+    background-color: #333;
+    color: white;
+    padding: 1.5rem;
+    border-radius: 15px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    transition: transform 0.2s ease;
+  }
+  
+  .Card:hover {
+    transform: scale(1.05);
+  }
+  
+  .Card .name,
+  .Card .speed,
+  .Card .color {
+    font-weight: bold;
+    margin: 0.5rem 0;
+  }
+  
+  .editButton {
+    margin-top: 1rem;
+    background-color: #444;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+.editButton:hover {
+    background-color: #5a5aff;
+  }
+  
+  .deleteButton:hover {
+    background-color: #2e2bc4;
+  }
+  
+  .border-red { box-shadow: 0 0 8px red; }
+.border-green { box-shadow: 0 0 8px limegreen; }
+.border-blue { box-shadow: 0 0 8px dodgerblue; }
+.border-yellow { box-shadow: 0 0 8px gold; }
+.border-orange { box-shadow: 0 0 8px orange; }
+.border-pink { box-shadow: 0 0 8px hotpink; }
+.border-purple { box-shadow: 0 0 8px purple; }
+.border-rainbow { box-shadow: 0 0 8px violet, 0 0 12px deeppink, 0 0 16px cyan; }

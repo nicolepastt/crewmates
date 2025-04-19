@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #111;
+  color: white;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.header {
+  position: fixed;
+  width: 200px;
+  height: 100vh;
+  background-color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.header h1 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  color: #fff;
+}
+
+.headerBtn {
+  background-color: #444;
+  color: white;
+  border: none;
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.headerBtn:hover {
+  background-color: #666;
+}
+
+.PageContainer {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.Sidebar {
+  width: 200px; /* adjust as needed */
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+}
+
+.MainContent {
+  flex: 1;
+  background-color: #111;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem;
+  gap: 2rem;
+}
