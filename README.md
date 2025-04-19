@@ -51,9 +51,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 <div>
     <a href="https://www.loom.com/share/0b75607ff34e4fa493f1fde1a24e14fe">
-      
-    </a>
-    <a href="https://www.loom.com/share/0b75607ff34e4fa493f1fde1a24e14fe">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0b75607ff34e4fa493f1fde1a24e14fe-441a48eeaaf39016-full-play.gif">
     </a>
   </div>
